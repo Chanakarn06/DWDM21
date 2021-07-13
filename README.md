@@ -6,12 +6,12 @@ Chanakarn Poonpol 6230210467
 
 Group Name: Natasha Romanoff
 
-1 Chanakarn Poonpol
+1 ชนกานต์ พูลผล
 
-2 Khanittha Phusopha
+2 ขนิษฐา ภูโสภา
 
-3 Thitiwat 
+3 จิตติยา ศิริธรรมจักร
 
-4 Jittiya
+4 จุฑากาญจน์ ชิงจันทร์
 
-5 Jutakran
+5 ฐิติวัฒน์ จันทรเสนา
