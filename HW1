@@ -1,0 +1,78 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled2.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMdy4IqpfUnMmRQK6meXNCW",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Chanakarn06/DWDM21/blob/main/HW1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "n98vG6c0ezSm"
+      },
+      "source": [
+        "### HW1"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "-fs7DVW-fkhw"
+      },
+      "source": [
+        "**ได้อะไรจาก chapter1 Introduction**\n",
+        "\n",
+        "\n",
+        "*   Data minning เหมือนกับเป็นการทำเหมิงข้อมูล ขุดข้อมูล มีการทำ Website ต่างๆที่เก็บ data ได้ \n",
+        "* knowledge discovery(KDD) Process \n",
+        "1.   มีการจัดการข้อมูล มีการเอาข้อมูลหลายๆแหล่งมารวมกันเเล้วนำไปเก็บใน Warehouse ดึงข้อมูลที่จำเป็นจากฐานข้อมูลมารวมกับ เช่น เก็บข้อมูลต่างๆจากตาราง\n",
+        "2.  หลังจากนั้นเลือกมาทำเป็น data minning เพื่อนำมาสกัดเอารูปแบบที่อยู่ในข้อมูลและนำไปวัดผล\n",
+        "3.   ตรวจสอบองค์ความรู้ที่เราสกัดมาเป็นองค์ความรู้จริงๆ\n",
+        "*กระบวนการจัดการเกี่ยวกับ data เช่น การทำ data ที่เป็นเว็บ\n",
+        "\n",
+        "*สำหรับ data mining in business \n",
+        "1.   เริ่มจากแหล่งข้อมูลอะไรก็ได้ แล้วเก็บไว้ data base รวมเป็น data warehouse 2.   จัดระเบียบให้เรียบร้อย พอได้องค์ความรู้แล้ว \n",
+        "3.  หาวิธีนำเสนอให้เข้าใจได้ง่าย \n",
+        "4.   ตอนสุดท้ายจะนำข้อมูลไปใช้ประโยชน์อะไร นำไปทำอะไร\n",
+        "\n",
+        " \n",
+        " \n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "eJrYxQS_fn9j"
+      },
+      "source": [
+        ""
+      ]
+    }
+  ]
+}
